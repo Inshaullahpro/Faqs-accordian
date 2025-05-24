@@ -15,7 +15,7 @@ body {
 }
 
 .container {
-  background-image: url("./assets/images/background-pattern-desktop.svg");
+  background-image: url("background-pattern-desktop.svg");
   width: 100%;
   height: 200px;
 }
@@ -87,7 +87,7 @@ body {
 
 @media (max-width: 450px) {
   .container {
-    background-image: url("./assets/images/background-pattern-mobile.svg");
+    background-image: url("background-pattern-mobile.svg");
   }
   .card {
     width: 90%;
